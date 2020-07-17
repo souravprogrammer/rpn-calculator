@@ -127,5 +127,5 @@ double convert(std::string expression)
     }
     postfix= temp;
 }
-}
+} 
 #endif // Notation
