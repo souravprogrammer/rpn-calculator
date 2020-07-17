@@ -16,5 +16,5 @@ bool isoperants(char var);
 int pricideance(char var);
 bool highipricideance(char var , char expression);
 }
-}
+} 
 #endif // _CALCULATOR_
