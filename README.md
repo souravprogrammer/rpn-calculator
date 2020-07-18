@@ -24,7 +24,7 @@ At this point, you have one choice :-
 
 Just compile Blett. To go this, go into the directory containing the Blett source code, and type
 
-    1.             "g++ Blett.cpp -o (name of executing file)".
+    1.             "g++ calculator.cpp -o (name of executing file)".
 
 (to execute )
 
