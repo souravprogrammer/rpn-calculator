@@ -22,7 +22,7 @@ If you like (even if you hate), please send an e-mail message to <souavsh1234567
 
 At this point, you have one choice :-
 
-Just compile Blett. To go this, go into the directory containing the Blett source code, and type
+Just compile calculator. To go this, go into the directory containing the source code, and type
 
     1.             "g++ calculator.cpp -o (name of executing file)".
 
